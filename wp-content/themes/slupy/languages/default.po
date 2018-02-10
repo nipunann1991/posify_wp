@@ -1,0 +1,2352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slupy WordPress Theme 1.0\n"
+"POT-Creation-Date: 2014-11-19 13:29+0200\n"
+"PO-Revision-Date: 2014-11-19 13:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: ThemeSama <themesama9@gmail.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../404.php:19
+msgid "404"
+msgstr ""
+
+#: ../archive-download.php:14 ../archive.php:25
+msgid "Downloads"
+msgstr ""
+
+#: ../archive-portfolio.php:14 ../archive.php:20
+#: ../includes/visual-composer-conf.php:17 ../ts-framework/options.php:1730
+msgid "Portfolio"
+msgstr ""
+
+#: ../archive.php:11
+msgid "Daily Archives:"
+msgstr ""
+
+#: ../archive.php:13
+msgid "Monthly Archives:"
+msgstr ""
+
+#: ../archive.php:15
+msgid "Yearly Archives:"
+msgstr ""
+
+#: ../author.php:14
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:14
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:26
+#, php-format
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:33 ../comments.php:57
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Leave a Comment &darr;"
+msgstr ""
+
+#: ../comments.php:65
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:72
+msgid "&larr; Cancel Reply"
+msgstr ""
+
+#: ../comments.php:74
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:2
+msgid "What are you looking for?"
+msgstr ""
+
+#: ../searchform.php:8 ../includes/slupy-class.php:100
+#: ../ts-framework/options.php:429
+msgid "Search"
+msgstr ""
+
+#: ../single-download.php:54
+msgid "Categories:"
+msgstr ""
+
+#: ../single-download.php:87
+msgid "Latest Added Downloads"
+msgstr ""
+
+#: ../single-portfolio.php:77
+msgid "Latest Works"
+msgstr ""
+
+#: ../tag.php:14
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../taxonomy-post_format.php:17
+msgid "Asides"
+msgstr ""
+
+#: ../taxonomy-post_format.php:20
+msgid "Images"
+msgstr ""
+
+#: ../taxonomy-post_format.php:23
+msgid "Videos"
+msgstr ""
+
+#: ../taxonomy-post_format.php:26
+msgid "Audio"
+msgstr ""
+
+#: ../taxonomy-post_format.php:29
+msgid "Quotes"
+msgstr ""
+
+#: ../taxonomy-post_format.php:32
+msgid "Links"
+msgstr ""
+
+#: ../taxonomy-post_format.php:35
+msgid "Galleries"
+msgstr ""
+
+#: ../taxonomy-post_format.php:38
+msgid "Archives"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:196
+#: ../includes/plugin-activation.php:87
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:197
+#: ../includes/plugin-activation.php:88
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:198
+#: ../includes/plugin-activation.php:89
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:210
+#: ../includes/plugin-activation.php:101
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:212
+#: ../includes/class-tgm-plugin-activation.php:1945
+#: ../includes/plugin-activation.php:102
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:213
+#: ../includes/class-tgm-plugin-activation.php:1632
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:541
+#: ../includes/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1171
+msgid "Private Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1174
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1179
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1182
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1182
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1185
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1187
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1287
+#: ../includes/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1309
+#: ../includes/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1377
+#: ../woocommerce/myaccount/my-orders.php:36
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1505
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1610
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2059
+#: ../includes/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2059
+#: ../includes/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/edd-conf.php:76 ../ts-framework/options.php:687
+#: ../ts-framework/options.php:1302 ../ts-framework/options.php:1540
+msgid "Default"
+msgstr ""
+
+#: ../includes/plugin-activation.php:90
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/plugin-activation.php:103
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/slupy-class.php:98
+msgid "Type & Press Enter"
+msgstr ""
+
+#: ../includes/slupy-class.php:190
+msgid "Please choose a main menu"
+msgstr ""
+
+#: ../includes/slupy-class.php:236
+msgid "BACK"
+msgstr ""
+
+#: ../includes/slupy-class.php:311
+#, php-format
+msgid "Total: %s results"
+msgstr ""
+
+#: ../includes/slupy-class.php:312
+msgid "View all"
+msgstr ""
+
+#: ../includes/slupy-class.php:333
+msgid "Please set a e-mail on framework."
+msgstr ""
+
+#: ../includes/slupy-class.php:334
+msgid "Please fill all required fields."
+msgstr ""
+
+#: ../includes/slupy-class.php:335
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: ../includes/slupy-class.php:336
+msgid "Your message has been sent successfully."
+msgstr ""
+
+#: ../includes/slupy-class.php:337
+msgid ""
+"Currently there is a problem. Please use <a href=\"mailto:your@gmail.com"
+"\">our email</a> address."
+msgstr ""
+
+#: ../includes/slupy-class.php:525
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: ../includes/slupy-class.php:529
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: ../includes/slupy-class.php:538
+msgid "sub item"
+msgstr ""
+
+#: ../includes/slupy-class.php:553
+msgid "Move up"
+msgstr ""
+
+#: ../includes/slupy-class.php:566
+msgid "Move down"
+msgstr ""
+
+#: ../includes/slupy-class.php:568 ../includes/slupy-class.php:570
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../includes/slupy-class.php:579 ../ts-framework/options.php:459
+#: ../ts-framework/options.php:499
+msgid "URL"
+msgstr ""
+
+#: ../includes/slupy-class.php:586
+msgid "Navigation Label"
+msgstr ""
+
+#: ../includes/slupy-class.php:592
+msgid "Title Attribute"
+msgstr ""
+
+#: ../includes/slupy-class.php:599
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../includes/slupy-class.php:604
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: ../includes/slupy-class.php:610
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: ../includes/slupy-class.php:616
+msgid "Description"
+msgstr ""
+
+#: ../includes/slupy-class.php:618
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: ../includes/slupy-class.php:648
+msgid "Disable link"
+msgstr ""
+
+#: ../includes/slupy-class.php:651
+msgid "Hide title"
+msgstr ""
+
+#: ../includes/slupy-class.php:657
+msgid "Mega Menu"
+msgstr ""
+
+#: ../includes/slupy-class.php:660
+msgid "and full width content"
+msgstr ""
+
+#: ../includes/slupy-class.php:667
+msgid "Menu Size (Optional)"
+msgstr ""
+
+#: ../includes/slupy-class.php:677
+msgid "Menu Content"
+msgstr ""
+
+#: ../includes/slupy-class.php:679 ../ts-framework/fields/textarea.php:49
+msgid "Add Shortcode"
+msgstr ""
+
+#: ../includes/slupy-class.php:681
+msgid "(Optional) You can use shortcode."
+msgstr ""
+
+#: ../includes/slupy-class.php:690
+msgid "Move"
+msgstr ""
+
+#: ../includes/slupy-class.php:691
+msgid "Up one"
+msgstr ""
+
+#: ../includes/slupy-class.php:692
+msgid "Down one"
+msgstr ""
+
+#: ../includes/slupy-class.php:695
+msgid "To the top"
+msgstr ""
+
+#: ../includes/slupy-class.php:702
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: ../includes/slupy-class.php:715 ../ts-framework/fields/group.php:18
+#: ../ts-framework/fields/upload.php:35
+msgid "Remove"
+msgstr ""
+
+#: ../includes/slupy-class.php:716 ../woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: ../includes/slupy-functions.php:20 ../ts-framework/options.php:745
+msgid "Main Menu"
+msgstr ""
+
+#: ../includes/slupy-functions.php:21
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../includes/slupy-functions.php:22
+msgid "Top-Bar Menu"
+msgstr ""
+
+#: ../includes/slupy-functions.php:23
+msgid "Single Page Menu"
+msgstr ""
+
+#: ../includes/slupy-functions.php:96
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/slupy-functions.php:216
+msgid "Older Posts"
+msgstr ""
+
+#: ../includes/slupy-functions.php:217
+msgid "Newer Posts"
+msgstr ""
+
+#: ../includes/slupy-functions.php:247 ../includes/visual-composer-conf.php:98
+#: ../includes/visual-composer-conf.php:275 ../ts-framework/options.php:1028
+#: ../ts-framework/options.php:1831
+msgid "Load More"
+msgstr ""
+
+#: ../includes/slupy-functions.php:248
+msgid "Loading"
+msgstr ""
+
+#: ../includes/slupy-functions.php:249
+msgid "No More"
+msgstr ""
+
+#: ../includes/slupy-functions.php:283
+msgctxt "pagination left arrow"
+msgid "<span class=\"fa fa-angle-left\"></span>"
+msgstr ""
+
+#: ../includes/slupy-functions.php:284
+msgctxt "pagination right arrow"
+msgid "<span class=\"fa fa-angle-right\"></span>"
+msgstr ""
+
+#: ../includes/slupy-functions.php:292 ../post-formats/content-audio.php:51
+#: ../post-formats/content-gallery.php:39 ../post-formats/content-link.php:31
+#: ../post-formats/content-video.php:39 ../post-formats/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: ../includes/slupy-functions.php:390 ../plugins/slupy-shortcodes.php:283
+msgid "Leave a comment"
+msgstr ""
+
+#: ../includes/slupy-functions.php:390 ../plugins/slupy-shortcodes.php:283
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/slupy-functions.php:390 ../plugins/slupy-shortcodes.php:283
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/slupy-functions.php:402
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/slupy-functions.php:544 ../ts-framework/options.php:1113
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/slupy-functions.php:746
+msgid "You need update your bio: "
+msgstr ""
+
+#: ../includes/slupy-functions.php:746
+msgid "Edit your profile"
+msgstr ""
+
+#: ../includes/slupy-functions.php:749
+msgid "Who is "
+msgstr ""
+
+#: ../includes/slupy-functions.php:799
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/slupy-functions.php:804
+msgid "Reply &rarr;"
+msgstr ""
+
+#: ../includes/slupy-functions.php:813
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/slupy-functions.php:815
+#: ../woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1041
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1041
+msgid "Sidebar for Blog & Single Post Page"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1045
+msgid "Woocommerce Sidebar"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1045
+msgid "Sidebar for Woocommerce"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1051
+msgid "Footer Column"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1125 ../ts-framework/options.php:239
+msgid "Header Model"
+msgstr ""
+
+#: ../includes/slupy-functions.php:1313 ../post-formats/content-audio.php:48
+#: ../post-formats/content-gallery.php:36 ../post-formats/content-link.php:28
+#: ../post-formats/content-video.php:36 ../post-formats/content.php:49
+msgid "Read More"
+msgstr ""
+
+#: ../includes/slupy-pageheader.php:128 ../includes/woocommerce-conf.php:81
+msgid "You are here:"
+msgstr ""
+
+#: ../includes/slupy-pageheader.php:129
+msgid "Home"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:19
+msgid "Add a Portfolio Page"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:20
+#: ../includes/visual-composer-conf.php:226 ../ts-framework/options.php:514
+msgid "Content"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:26
+#: ../includes/visual-composer-conf.php:124 ../ts-framework/options.php:1734
+msgid "Thumbnail Model"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:30
+#: ../includes/visual-composer-conf.php:128 ../ts-framework/options.php:1742
+msgid "Model 1"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:31
+#: ../includes/visual-composer-conf.php:129 ../ts-framework/options.php:1746
+msgid "Model 2"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:32 ../ts-framework/options.php:1750
+msgid "Model 3"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:38
+msgid "List Style"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:41 ../ts-framework/options.php:1764
+msgid "MASONRY"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:41 ../ts-framework/options.php:1764
+msgid "GRID"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:47 ../ts-framework/options.php:1769
+msgid "Fit Grid Height?"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:55 ../ts-framework/options.php:1779
+msgid "Loop Items Padding?"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:62 ../ts-framework/options.php:1815
+msgid "Filterable"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:69
+msgid "Filterable Position"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:72 ../ts-framework/options.php:1552
+msgid "Right"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:73 ../ts-framework/options.php:1548
+msgid "Left"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:74
+msgid "Center"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:80 ../ts-framework/options.php:1789
+msgid "Portfolio Max Columns"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:87
+msgid "Portfolio Per Page"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:94
+#: ../includes/visual-composer-conf.php:271 ../ts-framework/options.php:1017
+#: ../ts-framework/options.php:1824
+msgid "Pagination Style"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:99
+#: ../includes/visual-composer-conf.php:276 ../ts-framework/options.php:1024
+msgid "Older & Newer Button"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:100
+#: ../includes/visual-composer-conf.php:277 ../ts-framework/options.php:1032
+#: ../ts-framework/options.php:1835
+msgid "Page Numbers"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:101
+#: ../includes/visual-composer-conf.php:278 ../ts-framework/options.php:385
+#: ../ts-framework/options.php:1120 ../ts-framework/options.php:1326
+#: ../ts-framework/options.php:1544
+msgid "None"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:107
+#: ../includes/visual-composer-conf.php:143 ../ts-framework/options.php:1841
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:115
+msgid "Latest Projects"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:117
+msgid "Show latest projects with carousel slider"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:118 ../ts-framework/settings.php:93
+msgid "Slider"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:135
+msgid "Limit"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:150
+msgid "Slide Duration Time (second)"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:153
+#: ../includes/visual-composer-conf.php:161
+#: ../includes/visual-composer-conf.php:169
+#: ../includes/visual-composer-conf.php:177
+#: ../includes/visual-composer-conf.php:185
+msgid "Slider Config"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:158
+msgid "Auto Play"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:166
+msgid "Stop on Hover"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:174
+msgid "Pagination"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:182
+msgid "Touch Drag"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:190
+msgid "Show Max Items"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:192
+#: ../includes/visual-composer-conf.php:200
+#: ../includes/visual-composer-conf.php:208
+#: ../includes/visual-composer-conf.php:216 ../ts-framework/options.php:1575
+#: ../ts-framework/options.php:1628
+msgid "Layout Config"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:198
+msgid "Show Max Items (Desktop)"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:206
+msgid "Show Max Items (Tablet)"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:214
+msgid "Show Max Items (Mobile)"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:223 ../ts-framework/options.php:842
+msgid "Blog"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:225
+msgid "Add a Slupy style blog"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:232 ../ts-framework/options.php:849
+msgid "Masonry Style"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:241 ../ts-framework/options.php:858
+msgid "Masonry Max Columns"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:249 ../ts-framework/options.php:880
+msgid "Masonry Effect"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:252 ../ts-framework/options.php:887
+msgid "fade"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:253 ../ts-framework/options.php:891
+msgid "fadeInDown"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:254 ../ts-framework/options.php:895
+msgid "fadeInUp"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:255 ../ts-framework/options.php:899
+msgid "bounceIn"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:256 ../ts-framework/options.php:903
+msgid "flipInX"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:257 ../ts-framework/options.php:907
+msgid "flipInY"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:264
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:284 ../ts-framework/options.php:946
+msgid "Meta Position"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:287 ../ts-framework/options.php:953
+msgid "Content After"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:288 ../ts-framework/options.php:957
+msgid "Media After"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:289 ../ts-framework/options.php:961
+msgid "Heading After"
+msgstr ""
+
+#: ../includes/visual-composer-conf.php:290 ../ts-framework/options.php:965
+msgid "Together with Read More Button"
+msgstr ""
+
+#: ../includes/woocommerce-conf.php:85
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: ../page-templates/contact.php:28
+msgid "Leave a Message"
+msgstr ""
+
+#: ../page-templates/contact.php:33 ../plugins/slupy-shortcodes.php:161
+msgid "Name *"
+msgstr ""
+
+#: ../page-templates/contact.php:37 ../plugins/slupy-shortcodes.php:162
+msgid "E-Mail *"
+msgstr ""
+
+#: ../page-templates/contact.php:41 ../plugins/slupy-shortcodes.php:163
+msgid "Subject *"
+msgstr ""
+
+#: ../page-templates/contact.php:47 ../plugins/slupy-shortcodes.php:164
+msgid "Message *"
+msgstr ""
+
+#: ../page-templates/contact.php:49 ../plugins/slupy-shortcodes.php:165
+msgid "Send Message"
+msgstr ""
+
+#: ../plugins/index.php:36
+msgctxt "post type general name"
+msgid "Portfolio"
+msgstr ""
+
+#: ../plugins/index.php:37
+msgctxt "post type singular name"
+msgid "Work"
+msgstr ""
+
+#: ../plugins/index.php:38
+msgctxt "admin menu"
+msgid "Portfolio"
+msgstr ""
+
+#: ../plugins/index.php:39
+msgctxt "add new on admin bar"
+msgid "Work"
+msgstr ""
+
+#: ../plugins/index.php:40
+msgctxt "portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../plugins/index.php:41
+msgid "Add New Work"
+msgstr ""
+
+#: ../plugins/index.php:42
+msgid "New Work"
+msgstr ""
+
+#: ../plugins/index.php:43
+msgid "Edit Work"
+msgstr ""
+
+#: ../plugins/index.php:44
+msgid "View Work"
+msgstr ""
+
+#: ../plugins/index.php:45 ../plugins/slupy-shortcodes.php:354
+#: ../plugins/slupy-shortcodes.php:359
+msgid "All Works"
+msgstr ""
+
+#: ../plugins/index.php:46
+msgid "Search Works"
+msgstr ""
+
+#: ../plugins/index.php:47
+msgid "Parent Works"
+msgstr ""
+
+#: ../plugins/index.php:48
+msgid "No works found."
+msgstr ""
+
+#: ../plugins/index.php:49
+msgid "No works found in Trash."
+msgstr ""
+
+#: ../post-formats/content-none.php:15
+msgid "Nothing found"
+msgstr ""
+
+#: ../ts-framework/fields.php:84 ../ts-framework/fields/radio.php:33
+msgid "ON"
+msgstr ""
+
+#: ../ts-framework/fields.php:85 ../ts-framework/fields/radio.php:41
+msgid "OFF"
+msgstr ""
+
+#: ../ts-framework/fields.php:103
+msgid "font-size"
+msgstr ""
+
+#: ../ts-framework/fields.php:117
+msgid "Choose a Sidebar"
+msgstr ""
+
+#: ../ts-framework/fields.php:122
+msgid "No Sidebars"
+msgstr ""
+
+#: ../ts-framework/fields.php:137
+msgid "Choose a Page"
+msgstr ""
+
+#: ../ts-framework/fields.php:142
+msgid "No Pages Found"
+msgstr ""
+
+#: ../ts-framework/options.php:14 ../ts-framework/options.php:1493
+msgid "General"
+msgstr ""
+
+#: ../ts-framework/options.php:17 ../ts-framework/options.php:41
+#: ../ts-framework/options.php:59
+msgid "Logo"
+msgstr ""
+
+#: ../ts-framework/options.php:21
+msgid "Logo Type"
+msgstr ""
+
+#: ../ts-framework/options.php:28 ../ts-framework/options.php:1368
+msgid "IMAGE"
+msgstr ""
+
+#: ../ts-framework/options.php:28 ../ts-framework/options.php:1013
+msgid "TEXT"
+msgstr ""
+
+#: ../ts-framework/options.php:29
+msgid "Choose a logo type"
+msgstr ""
+
+#: ../ts-framework/options.php:32
+msgid "Logo Icon"
+msgstr ""
+
+#: ../ts-framework/options.php:38
+msgid "Choose a icon for your logo (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:47
+msgid "Write your name or company name (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:50 ../ts-framework/options.php:97
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../ts-framework/options.php:56
+msgid "Write your name or company name for sticky menu (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:66
+msgid "Choose your logo"
+msgstr ""
+
+#: ../ts-framework/options.php:69
+msgid "Logo (Retina Version @2x)"
+msgstr ""
+
+#: ../ts-framework/options.php:76
+msgid "Choose your 2x logo for retina-ready displays"
+msgstr ""
+
+#: ../ts-framework/options.php:79
+msgid "Logo Light (For Transparent Header)"
+msgstr ""
+
+#: ../ts-framework/options.php:86
+msgid "Choose your transparent header logo"
+msgstr ""
+
+#: ../ts-framework/options.php:89
+msgid "Logo Max Width"
+msgstr ""
+
+#: ../ts-framework/options.php:104
+msgid "Choose your logo for sticky menu (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:110 ../ts-framework/options.php:114
+msgid "Favicon"
+msgstr ""
+
+#: ../ts-framework/options.php:120
+msgid "Choose your favicon (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:123
+msgid "Apple Touch Icon - 60x60"
+msgstr ""
+
+#: ../ts-framework/options.php:129
+msgid "iPhone & iPod"
+msgstr ""
+
+#: ../ts-framework/options.php:132
+msgid "Apple Touch Icon - 76x76"
+msgstr ""
+
+#: ../ts-framework/options.php:138
+msgid "iPad"
+msgstr ""
+
+#: ../ts-framework/options.php:141
+msgid "Apple Touch Icon - 120x120"
+msgstr ""
+
+#: ../ts-framework/options.php:147
+msgid "iPhone & iPod retina"
+msgstr ""
+
+#: ../ts-framework/options.php:150
+msgid "Apple Touch Icon - 152x152"
+msgstr ""
+
+#: ../ts-framework/options.php:156
+msgid "iPad retina"
+msgstr ""
+
+#: ../ts-framework/options.php:161
+msgid "Layout"
+msgstr ""
+
+#: ../ts-framework/options.php:165
+msgid "Responsive"
+msgstr ""
+
+#: ../ts-framework/options.php:171
+msgid "Enable/Disable responsive design"
+msgstr ""
+
+#: ../ts-framework/options.php:174
+msgid "Boxed Layout"
+msgstr ""
+
+#: ../ts-framework/options.php:180
+msgid "Enable/Disable boxed layout (It is recommended for companies)"
+msgstr ""
+
+#: ../ts-framework/options.php:183
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../ts-framework/options.php:189
+msgid "Enable/Disable sticky menu"
+msgstr ""
+
+#: ../ts-framework/options.php:192
+msgid "Back to Top Button"
+msgstr ""
+
+#: ../ts-framework/options.php:198
+msgid "Enable/Disable back to top button"
+msgstr ""
+
+#: ../ts-framework/options.php:212
+msgid "Javascripts"
+msgstr ""
+
+#: ../ts-framework/options.php:216
+msgid "Custom JS & Tracking Code"
+msgstr ""
+
+#: ../ts-framework/options.php:222
+msgid "Paste your Google Analytics code without script tag"
+msgstr ""
+
+#: ../ts-framework/options.php:232
+msgid "Header & Footer"
+msgstr ""
+
+#: ../ts-framework/options.php:235
+msgid "Header Models"
+msgstr ""
+
+#: ../ts-framework/options.php:247
+msgid "Standard"
+msgstr ""
+
+#: ../ts-framework/options.php:252
+msgid "Big Logo"
+msgstr ""
+
+#: ../ts-framework/options.php:257
+msgid "Center Logo"
+msgstr ""
+
+#: ../ts-framework/options.php:262
+msgid "Under Logo"
+msgstr ""
+
+#: ../ts-framework/options.php:267
+msgid "Choose your header type"
+msgstr ""
+
+#: ../ts-framework/options.php:270
+msgid "Top-Bar Text (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:276
+msgid "You can add a text on top-bar."
+msgstr ""
+
+#: ../ts-framework/options.php:281 ../ts-framework/options.php:1221
+msgid "Page Header"
+msgstr ""
+
+#: ../ts-framework/options.php:285
+msgid "Show Parent Page for Blog posts on Breadcrumb Nav"
+msgstr ""
+
+#: ../ts-framework/options.php:291
+msgid "Adds another page in between Home and the blogpost."
+msgstr ""
+
+#: ../ts-framework/options.php:294
+msgid "Show Parent Page for Portfolio posts on Breadcrumb Nav"
+msgstr ""
+
+#: ../ts-framework/options.php:300
+msgid "Adds another page in between Home and the portfolio post."
+msgstr ""
+
+#: ../ts-framework/options.php:303 ../ts-framework/options.php:1373
+msgid "Background Image"
+msgstr ""
+
+#: ../ts-framework/options.php:311 ../ts-framework/options.php:1295
+msgid "Space"
+msgstr ""
+
+#: ../ts-framework/options.php:318
+msgid "X-Small"
+msgstr ""
+
+#: ../ts-framework/options.php:322 ../ts-framework/options.php:1306
+msgid "Small"
+msgstr ""
+
+#: ../ts-framework/options.php:326 ../ts-framework/options.php:1310
+msgid "Medium"
+msgstr ""
+
+#: ../ts-framework/options.php:330 ../ts-framework/options.php:1314
+msgid "Large"
+msgstr ""
+
+#: ../ts-framework/options.php:334 ../ts-framework/options.php:1318
+msgid "X-Large"
+msgstr ""
+
+#: ../ts-framework/options.php:338 ../ts-framework/options.php:1322
+msgid "XX-Large"
+msgstr ""
+
+#: ../ts-framework/options.php:344 ../ts-framework/options.php:1332
+msgid "Text Color"
+msgstr ""
+
+#: ../ts-framework/options.php:350
+msgid "Choose a text color (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:353 ../ts-framework/options.php:1340
+msgid "Link Color"
+msgstr ""
+
+#: ../ts-framework/options.php:359 ../ts-framework/options.php:368
+msgid "Choose a link color (Optional)"
+msgstr ""
+
+#: ../ts-framework/options.php:362 ../ts-framework/options.php:1348
+msgid "Link Color (Hover)"
+msgstr ""
+
+#: ../ts-framework/options.php:373
+msgid "Menu Additional"
+msgstr ""
+
+#: ../ts-framework/options.php:377
+msgid "Menu Additional Type"
+msgstr ""
+
+#: ../ts-framework/options.php:389
+msgid "Show on Top-Bar (Right)"
+msgstr ""
+
+#: ../ts-framework/options.php:393
+msgid "Show on Top-Bar (Left)"
+msgstr ""
+
+#: ../ts-framework/options.php:397
+msgid "Show with Menu"
+msgstr ""
+
+#: ../ts-framework/options.php:401
+msgid "Choose your menu additional position or disable"
+msgstr ""
+
+#: ../ts-framework/options.php:413
+msgid "Social Networks"
+msgstr ""
+
+#: ../ts-framework/options.php:419
+msgid "WPML Lang Selector"
+msgstr ""
+
+#: ../ts-framework/options.php:424
+msgid "Woocommerce Cart"
+msgstr ""
+
+#: ../ts-framework/options.php:434
+msgid "Enable/Disable standard menu additional icons"
+msgstr ""
+
+#: ../ts-framework/options.php:437
+msgid "Your Social Networks"
+msgstr ""
+
+#: ../ts-framework/options.php:445 ../ts-framework/options.php:485
+#: ../ts-framework/options.php:1161
+msgid "Title"
+msgstr ""
+
+#: ../ts-framework/options.php:452 ../ts-framework/options.php:492
+#: ../ts-framework/options.php:1168
+msgid "Icon"
+msgstr ""
+
+#: ../ts-framework/options.php:466 ../ts-framework/options.php:506
+msgid "Target"
+msgstr ""
+
+#: ../ts-framework/options.php:474
+msgid "Add your social networks url"
+msgstr ""
+
+#: ../ts-framework/options.php:477
+msgid "Custom Menu Items"
+msgstr ""
+
+#: ../ts-framework/options.php:523
+msgid "Add your custom menu items"
+msgstr ""
+
+#: ../ts-framework/options.php:528
+msgid "Footer Models"
+msgstr ""
+
+#: ../ts-framework/options.php:532
+msgid "Footer Model"
+msgstr ""
+
+#: ../ts-framework/options.php:541
+msgid "1 Column"
+msgstr ""
+
+#: ../ts-framework/options.php:547
+msgid "2 Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:553 ../ts-framework/options.php:571
+#: ../ts-framework/options.php:577 ../ts-framework/options.php:583
+#: ../ts-framework/options.php:589 ../ts-framework/options.php:595
+#: ../ts-framework/options.php:601 ../ts-framework/options.php:607
+msgid "3 Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:559 ../ts-framework/options.php:613
+#: ../ts-framework/options.php:619
+msgid "4 Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:565
+msgid "6 Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:625 ../ts-framework/options.php:631
+#: ../ts-framework/options.php:637
+msgid "5 Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:643
+msgid "Choose your footer column(s). Uncheck to override"
+msgstr ""
+
+#: ../ts-framework/options.php:646
+msgid "Copyright Content"
+msgstr ""
+
+#: ../ts-framework/options.php:651
+msgid ""
+"Slupy Theme. <a href=\"http://wordpress.org/\" target=\"_blank\">Powered by "
+"WordPress.</a>"
+msgstr ""
+
+#: ../ts-framework/options.php:653
+msgid "Shortcode supported."
+msgstr ""
+
+#: ../ts-framework/options.php:656
+msgid "Footer Dark Style"
+msgstr ""
+
+#: ../ts-framework/options.php:662
+msgid "Choose footer style"
+msgstr ""
+
+#: ../ts-framework/options.php:672
+msgid "Theme Styling"
+msgstr ""
+
+#: ../ts-framework/options.php:675
+msgid "Color Sheme"
+msgstr ""
+
+#: ../ts-framework/options.php:679
+msgid "Choose Ready Skins"
+msgstr ""
+
+#: ../ts-framework/options.php:691
+msgid "Orange"
+msgstr ""
+
+#: ../ts-framework/options.php:695
+msgid "Blue"
+msgstr ""
+
+#: ../ts-framework/options.php:699
+msgid "Yellow"
+msgstr ""
+
+#: ../ts-framework/options.php:703
+msgid "Green"
+msgstr ""
+
+#: ../ts-framework/options.php:707
+msgid "Custom"
+msgstr ""
+
+#: ../ts-framework/options.php:713
+msgid "Accent Color"
+msgstr ""
+
+#: ../ts-framework/options.php:724
+msgid "Typography"
+msgstr ""
+
+#: ../ts-framework/options.php:728
+msgid "Headings"
+msgstr ""
+
+#: ../ts-framework/options.php:752
+msgid "Change main menu typography"
+msgstr ""
+
+#: ../ts-framework/options.php:755
+msgid "Main Menu Color (Hover & Active)"
+msgstr ""
+
+#: ../ts-framework/options.php:761 ../ts-framework/options.php:780
+msgid "Change main menu hover & active color"
+msgstr ""
+
+#: ../ts-framework/options.php:764
+msgid "Sub Menu"
+msgstr ""
+
+#: ../ts-framework/options.php:771
+msgid "Change sub menu typography"
+msgstr ""
+
+#: ../ts-framework/options.php:774
+msgid "Sub Menu Color (Hover & Active)"
+msgstr ""
+
+#: ../ts-framework/options.php:783
+msgid "Body"
+msgstr ""
+
+#: ../ts-framework/options.php:790
+msgid "Change body typography"
+msgstr ""
+
+#: ../ts-framework/options.php:793
+msgid "Link"
+msgstr ""
+
+#: ../ts-framework/options.php:799
+msgid "Change all links color"
+msgstr ""
+
+#: ../ts-framework/options.php:802
+msgid "Link (Hover)"
+msgstr ""
+
+#: ../ts-framework/options.php:808
+msgid "Change all links hover color"
+msgstr ""
+
+#: ../ts-framework/options.php:811
+msgid "Google Fonts Subsets"
+msgstr ""
+
+#: ../ts-framework/options.php:817
+msgid "Write google font subsets latin,cyrillic etc."
+msgstr ""
+
+#: ../ts-framework/options.php:822 ../ts-framework/options.php:826
+msgid "Custom CSS"
+msgstr ""
+
+#: ../ts-framework/options.php:832
+msgid "Add your custom css lines here"
+msgstr ""
+
+#: ../ts-framework/options.php:845
+msgid "Blog Listing"
+msgstr ""
+
+#: ../ts-framework/options.php:855
+msgid "Enable/Disable Masonry Style"
+msgstr ""
+
+#: ../ts-framework/options.php:877
+msgid "Choose Masonry Max Columns on Desktop Display"
+msgstr ""
+
+#: ../ts-framework/options.php:913 ../ts-framework/options.php:1044
+#: ../ts-framework/options.php:1950
+msgid "Sidebar"
+msgstr ""
+
+#: ../ts-framework/options.php:922 ../ts-framework/options.php:1053
+#: ../ts-framework/options.php:1595 ../ts-framework/options.php:1644
+#: ../ts-framework/options.php:1959 ../ts-framework/options.php:1983
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../ts-framework/options.php:928 ../ts-framework/options.php:1059
+#: ../ts-framework/options.php:1599 ../ts-framework/options.php:1648
+#: ../ts-framework/options.php:1965 ../ts-framework/options.php:1989
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../ts-framework/options.php:934 ../ts-framework/options.php:1065
+#: ../ts-framework/options.php:1971 ../ts-framework/options.php:1995
+msgid "Choose your sidebar position. Uncheck to override"
+msgstr ""
+
+#: ../ts-framework/options.php:937 ../ts-framework/options.php:1068
+msgid "Icons for Post Formats"
+msgstr ""
+
+#: ../ts-framework/options.php:943 ../ts-framework/options.php:1074
+msgid "Enable/Disable Post Types Icons"
+msgstr ""
+
+#: ../ts-framework/options.php:979 ../ts-framework/options.php:1085
+msgid "Author"
+msgstr ""
+
+#: ../ts-framework/options.php:984 ../ts-framework/options.php:1090
+#: ../woocommerce/myaccount/my-orders.php:35
+msgid "Date"
+msgstr ""
+
+#: ../ts-framework/options.php:989 ../ts-framework/options.php:1095
+msgid "Comments Count"
+msgstr ""
+
+#: ../ts-framework/options.php:994 ../ts-framework/options.php:1100
+msgid "Tags"
+msgstr ""
+
+#: ../ts-framework/options.php:999 ../ts-framework/options.php:1105
+msgid "Categories"
+msgstr ""
+
+#: ../ts-framework/options.php:1004 ../ts-framework/options.php:1110
+msgid "Enable/Disable Meta Items"
+msgstr ""
+
+#: ../ts-framework/options.php:1007
+msgid "Read More Style"
+msgstr ""
+
+#: ../ts-framework/options.php:1013
+msgid "BUTTON"
+msgstr ""
+
+#: ../ts-framework/options.php:1014
+msgid "Choose read more style"
+msgstr ""
+
+#: ../ts-framework/options.php:1040
+msgid "Single Post"
+msgstr ""
+
+#: ../ts-framework/options.php:1077
+msgid "Meta Items"
+msgstr ""
+
+#: ../ts-framework/options.php:1124
+msgid "By Tags"
+msgstr ""
+
+#: ../ts-framework/options.php:1128
+msgid "By Categories"
+msgstr ""
+
+#: ../ts-framework/options.php:1134
+msgid "Next & Prev Article Link"
+msgstr ""
+
+#: ../ts-framework/options.php:1140
+msgid "Enable/Disable Next & Prev Article Links"
+msgstr ""
+
+#: ../ts-framework/options.php:1143
+msgid "About the Author"
+msgstr ""
+
+#: ../ts-framework/options.php:1150
+msgid "Enable/Disable your short bio"
+msgstr ""
+
+#: ../ts-framework/options.php:1153
+msgid "Users Social Networks"
+msgstr ""
+
+#: ../ts-framework/options.php:1175
+msgid ""
+"Add users social networks. Look at main menu \"Users->Your Profile->Contact "
+"Info\""
+msgstr ""
+
+#: ../ts-framework/options.php:1180 ../ts-framework/options.php:1184
+msgid "Sidebars"
+msgstr ""
+
+#: ../ts-framework/options.php:1191
+msgid "Sidebar Title"
+msgstr ""
+
+#: ../ts-framework/options.php:1198
+msgid "Add your special sidebars"
+msgstr ""
+
+#: ../ts-framework/options.php:1208
+msgid "Other Settings"
+msgstr ""
+
+#: ../ts-framework/options.php:1225
+msgid "Transparent Header"
+msgstr ""
+
+#: ../ts-framework/options.php:1233
+msgid "Disable Page Header"
+msgstr ""
+
+#: ../ts-framework/options.php:1242
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: ../ts-framework/options.php:1250
+msgid "Custom Title"
+msgstr ""
+
+#: ../ts-framework/options.php:1257
+msgid "Custom Short Description"
+msgstr ""
+
+#: ../ts-framework/options.php:1264
+msgid "Custom Content"
+msgstr ""
+
+#: ../ts-framework/options.php:1275
+msgid "Page Header Style"
+msgstr ""
+
+#: ../ts-framework/options.php:1279
+msgid "Disable Container"
+msgstr ""
+
+#: ../ts-framework/options.php:1287
+msgid "Align Center"
+msgstr ""
+
+#: ../ts-framework/options.php:1359
+msgid "Page Header BG"
+msgstr ""
+
+#: ../ts-framework/options.php:1363
+msgid "Background Type"
+msgstr ""
+
+#: ../ts-framework/options.php:1368
+msgid "VIDEO"
+msgstr ""
+
+#: ../ts-framework/options.php:1381
+msgid "Parallax"
+msgstr ""
+
+#: ../ts-framework/options.php:1391
+msgid "Parallax Speed"
+msgstr ""
+
+#: ../ts-framework/options.php:1400
+msgid "Parallax Offset"
+msgstr ""
+
+#: ../ts-framework/options.php:1408
+msgid "Video BG (.mp4)"
+msgstr ""
+
+#: ../ts-framework/options.php:1418
+msgid "Video BG (.webm)"
+msgstr ""
+
+#: ../ts-framework/options.php:1428
+msgid "Video BG (.ogv)"
+msgstr ""
+
+#: ../ts-framework/options.php:1438
+msgid "Video Poster"
+msgstr ""
+
+#: ../ts-framework/options.php:1444
+msgid "(Optional) Need for some devices"
+msgstr ""
+
+#: ../ts-framework/options.php:1447
+msgid "Video Sound"
+msgstr ""
+
+#: ../ts-framework/options.php:1456
+msgid "Video Loop"
+msgstr ""
+
+#: ../ts-framework/options.php:1465
+msgid "Cover Color"
+msgstr ""
+
+#: ../ts-framework/options.php:1473
+msgid "Cover Alpha"
+msgstr ""
+
+#: ../ts-framework/options.php:1487
+msgid "Page Details"
+msgstr ""
+
+#: ../ts-framework/options.php:1497 ../ts-framework/options.php:1605
+#: ../ts-framework/options.php:1658
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../ts-framework/options.php:1516
+msgid "Post Details"
+msgstr ""
+
+#: ../ts-framework/options.php:1522
+msgid "Post Config"
+msgstr ""
+
+#: ../ts-framework/options.php:1526
+msgid "Custom Icon"
+msgstr ""
+
+#: ../ts-framework/options.php:1533
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../ts-framework/options.php:1569
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../ts-framework/options.php:1579 ../ts-framework/options.php:1632
+msgid "Template"
+msgstr ""
+
+#: ../ts-framework/options.php:1587 ../ts-framework/options.php:1640
+msgid "Default Template"
+msgstr ""
+
+#: ../ts-framework/options.php:1591
+msgid "Full Width - Parallax Mode"
+msgstr ""
+
+#: ../ts-framework/options.php:1622
+msgid "Product Details"
+msgstr ""
+
+#: ../ts-framework/options.php:1652
+msgid "Without Sidebar"
+msgstr ""
+
+#: ../ts-framework/options.php:1692
+msgid "Visual Composer"
+msgstr ""
+
+#: ../ts-framework/options.php:1696
+msgid "Disable VC Shortcodes?"
+msgstr ""
+
+#: ../ts-framework/options.php:1702
+msgid "Enable/Disable Visual Composer Shortcodes "
+msgstr ""
+
+#: ../ts-framework/options.php:1705
+msgid "Enable Frontend Editor?"
+msgstr ""
+
+#: ../ts-framework/options.php:1711
+msgid "Enable/Disable Visual Composer Frontend Editor "
+msgstr ""
+
+#: ../ts-framework/options.php:1757
+msgid "List Type"
+msgstr ""
+
+#: ../ts-framework/options.php:1766
+msgid "Choose your portfolio list type"
+msgstr ""
+
+#: ../ts-framework/options.php:1776
+msgid "Create square portfolio items"
+msgstr ""
+
+#: ../ts-framework/options.php:1786
+msgid "Enable/Disable Portfolio Loop Padding"
+msgstr ""
+
+#: ../ts-framework/options.php:1812
+msgid "Choose Portfolio Max Columns on Desktop Display"
+msgstr ""
+
+#: ../ts-framework/options.php:1821
+msgid "Enable/Disable Portfolio Filter Menu"
+msgstr ""
+
+#: ../ts-framework/options.php:1846 ../ts-framework/options.php:1863
+#: ../ts-framework/options.php:2132 ../ts-framework/options.php:2140
+msgid "Write a image size (full, large, medium or custom image sizes)"
+msgstr ""
+
+#: ../ts-framework/options.php:1849
+msgid "Latest Works on Single?"
+msgstr ""
+
+#: ../ts-framework/options.php:1855
+msgid "Show latest works on single portfolio page"
+msgstr ""
+
+#: ../ts-framework/options.php:1858
+msgid "Latest Works Image Size"
+msgstr ""
+
+#: ../ts-framework/options.php:1866
+msgid "Latest Works Limit"
+msgstr ""
+
+#: ../ts-framework/options.php:1897
+msgid "Show All"
+msgstr ""
+
+#: ../ts-framework/options.php:1919
+msgid "Import / Export Settings"
+msgstr ""
+
+#: ../ts-framework/options.php:1946
+msgid "Woocommerce"
+msgstr ""
+
+#: ../ts-framework/options.php:1974
+msgid "Sidebar Single Product"
+msgstr ""
+
+#: ../ts-framework/options.php:1998
+msgid "Product Max Columns"
+msgstr ""
+
+#: ../ts-framework/options.php:2017
+msgid "Choose Max Columns on Desktop Display"
+msgstr ""
+
+#: ../ts-framework/options.php:2036 ../ts-framework/options.php:2040
+msgid "Image Sizes"
+msgstr ""
+
+#: ../ts-framework/options.php:2047
+msgid "Name"
+msgstr ""
+
+#: ../ts-framework/options.php:2054
+msgid "Width"
+msgstr ""
+
+#: ../ts-framework/options.php:2061
+msgid "Height"
+msgstr ""
+
+#: ../ts-framework/options.php:2068
+msgid "Hard Crop?"
+msgstr ""
+
+#: ../ts-framework/options.php:2077
+msgid "Add your special image sizes"
+msgstr ""
+
+#: ../ts-framework/options.php:2096
+msgid "Contact"
+msgstr ""
+
+#: ../ts-framework/options.php:2100
+msgid "E-Mail"
+msgstr ""
+
+#: ../ts-framework/options.php:2123
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: ../ts-framework/options.php:2127
+msgid "Single Image Size"
+msgstr ""
+
+#: ../ts-framework/options.php:2135
+msgid "List Image Size"
+msgstr ""
+
+#: ../ts-framework/options.php:2143
+msgid "Latest Downloads on Single?"
+msgstr ""
+
+#: ../ts-framework/options.php:2149
+msgid "Show latest downloads on single download page"
+msgstr ""
+
+#: ../ts-framework/settings.php:126
+msgid "Settings saved."
+msgstr ""
+
+#: ../ts-framework/settings.php:132
+msgid "Settings reset."
+msgstr ""
+
+#: ../ts-framework/settings.php:138
+msgid "Imported settings saved."
+msgstr ""
+
+#: ../ts-framework/settings.php:141
+msgid "Please check imported value."
+msgstr ""
+
+#: ../ts-framework/fields/background.php:24
+#: ../ts-framework/fields/upload.php:25
+msgid "Choose a file"
+msgstr ""
+
+#: ../ts-framework/fields/background.php:25
+#: ../ts-framework/fields/upload.php:26
+msgid "Insert"
+msgstr ""
+
+#: ../ts-framework/fields/background.php:31
+#: ../ts-framework/fields/upload.php:34
+msgid "Upload"
+msgstr ""
+
+#: ../ts-framework/fields/font.php:61
+msgid "font-weight"
+msgstr ""
+
+#: ../ts-framework/fields/group.php:24
+msgid "Item"
+msgstr ""
+
+#: ../ts-framework/fields/group.php:46
+msgid "New Item"
+msgstr ""
+
+#: ../ts-framework/fields/icon.php:30
+msgid "Choose Icon"
+msgstr ""
+
+#: ../ts-framework/fields/icon.php:33
+msgid "Filter Icons"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:14
+msgid "Export Settings"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:17
+msgid "Copy & Import your another slupy wordpress theme"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:24
+msgid "Import Settings"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:27
+msgid "Paste your another slupy wordpress theme export text"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:32
+msgid "Are you sure?"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:33
+msgid "Reset Settings"
+msgstr ""
+
+#: ../ts-framework/fields/importexport.php:34
+msgid "Import New Settings"
+msgstr ""
+
+#: ../ts-framework/fields/radio.php:37
+msgid "DEFAULT"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:30 ../woocommerce/myaccount/my-orders.php:37
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:118
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:118 ../woocommerce/checkout/form-coupon.php:21
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:118 ../woocommerce/checkout/form-coupon.php:22
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:125
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:125
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:16
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:24
+msgid "Edit Account Details"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:28
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:32
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:39
+#: ../woocommerce/myaccount/form-login.php:84
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:46
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:53
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:57
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:67
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:14
+#: ../woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:38
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:29
+#: ../woocommerce/myaccount/form-login.php:101
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:48
+#: ../woocommerce/myaccount/form-login.php:89
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:60
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:77
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:94
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:24
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:29
+#: ../woocommerce/myaccount/my-account.php:41
+msgid "Account Details"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:31
+msgid "Available Downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:33
+#: ../woocommerce/myaccount/my-orders.php:25
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:46
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:54
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:63
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:61
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:103
+msgid "Have not any orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:24
+#: ../woocommerce/order/tracking.php:25
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:30
+#: ../woocommerce/order/tracking.php:31
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""

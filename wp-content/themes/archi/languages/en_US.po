@@ -1,0 +1,949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Archi v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-09-15 09:28+0700\n"
+"Last-Translator: admin <vhoanggiavuong@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ archi
+#: archive-service.php:9
+msgid "SERVICES"
+msgstr ""
+
+# @ archi
+#: archive-service.php:39 content-audio.php:16 content-gallery.php:28
+#: content-image.php:28 content-video.php:16 content.php:20
+msgid "Read More"
+msgstr ""
+
+# @ archi
+#: archive.php:11
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:14
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:14
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ archi
+#: archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+# @ archi
+#: archive.php:17
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ archi
+#: archive.php:20
+msgid "Archives"
+msgstr ""
+
+# @ archi
+#: author.php:9
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+# @ archi
+#: category.php:9
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+# @ archi
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+# @ archi
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+# @ archi
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+# @ archi
+#: comments.php:38
+msgid "Leave a reply"
+msgstr ""
+
+# @ archi
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+# @ archi
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+# @ archi
+#: comments.php:43
+msgid "Comment *"
+msgstr ""
+
+# @ archi
+#: comments.php:44
+msgid "Send Message"
+msgstr ""
+
+# @ archi
+#: functions.php:52
+msgid "Primary Menu"
+msgstr ""
+
+# @ archi
+#: functions.php:53
+msgid "One Page Menu"
+msgstr ""
+
+# @ archi
+#: functions.php:71
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:77
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+# @ archi
+#: functions.php:182
+msgid "Primary Sidebar"
+msgstr ""
+
+# @ archi
+#: functions.php:184 functions.php:193
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+# @ archi
+#: functions.php:191
+msgid "Shop Sidebar"
+msgstr ""
+
+# @ archi
+#: functions.php:200
+msgid "Footer One Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:202 functions.php:212 functions.php:222 functions.php:232
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+# @ archi
+#: functions.php:210
+msgid "Footer Two Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:220
+msgid "Footer Three Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:230
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+# @ archi
+#: functions.php:243
+msgid "Home"
+msgstr ""
+
+# @ archi
+#: functions.php:455
+msgid "type to search and hit enter"
+msgstr ""
+
+# @ archi
+#: functions.php:470
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ archi
+#: functions.php:478
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+# @ wpb
+#: functions.php:522
+msgid "Fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:525
+msgid "No"
+msgstr ""
+
+# @ wpb
+#: functions.php:526
+msgid "Yes"
+msgstr ""
+
+# @ wpb
+#: functions.php:528
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+# @ wpb
+#: functions.php:536
+msgid "Animate"
+msgstr ""
+
+# @ wpb
+#: functions.php:539
+msgid "None"
+msgstr ""
+
+# @ wpb
+#: functions.php:540
+msgid "Fade In Up"
+msgstr ""
+
+# @ wpb
+#: functions.php:541
+msgid "Fade In Down"
+msgstr ""
+
+# @ wpb
+#: functions.php:542
+msgid "Fade In"
+msgstr ""
+
+# @ wpb
+#: functions.php:543
+msgid "Fade In Left"
+msgstr ""
+
+# @ wpb
+#: functions.php:544
+msgid "Fade In Right"
+msgstr ""
+
+# @ wpb
+#: functions.php:547
+msgid "Select Animate , Default: None"
+msgstr ""
+
+# @ archi
+#: functions.php:697
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ archi
+#: functions.php:698
+msgid "Install Plugins"
+msgstr ""
+
+# @ archi
+#: functions.php:699
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ archi
+#: functions.php:700
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ archi
+#: functions.php:702
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:707
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:712
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:717
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:722
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:727
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:732
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:737
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:742
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:747
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ archi
+#: functions.php:751
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ archi
+#: functions.php:752
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ archi
+#: functions.php:753
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ tgmpa
+#: functions.php:754
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+# @ archi
+#: index.php:9
+msgid "Blog"
+msgstr ""
+
+# @ archi
+#: page-templates/template-blog-fullwidth.php:46
+#: page-templates/template-blog-left-sidebar.php:71
+#: page-templates/template-blog.php:66 search.php:33
+msgid "Nothing Found Here!"
+msgstr ""
+
+# @ archi
+#: page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:34
+#: page-templates/template-onepage.php:24 page.php:61
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+# @ archi
+#: page.php:44
+msgid "Pages:"
+msgstr ""
+
+# @ archi
+#: page.php:48
+msgid "Page"
+msgstr ""
+
+# @ archi
+#: search.php:9
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+# @ archi
+#: single.php:102
+msgid "By : "
+msgstr ""
+
+# @ archi
+#: single.php:111 single.php:119
+msgid "0 comment"
+msgstr ""
+
+# @ archi
+#: single.php:111 single.php:119
+msgid "1 comment"
+msgstr ""
+
+# @ archi
+#: single.php:111 single.php:119
+msgid "% comments"
+msgstr ""
+
+# @ archi
+#: single.php:126
+msgid "Next"
+msgstr ""
+
+# @ archi
+#: single.php:127
+msgid "Next post:"
+msgstr ""
+
+# @ archi
+#: single.php:129
+msgid "Previous"
+msgstr ""
+
+# @ archi
+#: single.php:130
+msgid "Previous post:"
+msgstr ""
+
+# @ archi
+#: tag.php:9
+#, php-format
+msgid "Tags: %s"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:9
+msgid "OT Heading"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:29 vc_shortcode.php:333 vc_shortcode.php:351
+msgid "Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:35
+msgid "Add Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:42
+msgid "Element Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:47
+msgid "Select Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:49
+msgid "h1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:51
+msgid "h2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:53
+msgid "h3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:55
+msgid "h4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:57
+msgid "h5"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:59
+msgid "h6"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:61
+msgid "p"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:63
+msgid "div"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:66
+msgid "Section Element Tag"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:73
+msgid "Text Align"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:79
+msgid "Select Align"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:81
+msgid "left"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:83
+msgid "right"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:85
+msgid "center"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:87
+msgid "justify"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:91
+msgid "Section Overlay"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:102 vc_shortcode.php:108
+msgid "Font Size"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:119 vc_shortcode.php:125
+msgid "Color"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:137
+msgid "Class Extra"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:143
+msgid "Class extra for style"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:153
+msgid "OT Line Solid"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:166
+msgid "EX: circle.Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:177
+msgid "OT Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:197 vc_shortcode.php:203
+msgid "Button Text"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:214 vc_shortcode.php:220
+msgid "Button Link"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:233
+msgid "OT Home Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:246
+msgid "Nunber Slide Show"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:255
+msgid "Background Video"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:264
+msgid "Video Link mp4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:273
+msgid "Video Link webm"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:282
+msgid "Text SubTitle"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:291
+msgid "Link Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:300
+msgid "Text Button"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:310
+msgid "OT Home Parallax"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:323 vc_shortcode.php:709 vc_shortcode.php:736
+#: vc_shortcode.php:762 vc_shortcode.php:771
+msgid "Number"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:342
+msgid "Link"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:362
+msgid "OT Video Post"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:375
+msgid "Ex: http://player.vimeo.com/video/88883554 or http://www.youtube.com/embed/eP2VWNtU5rw"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:384
+msgid "OT Quick Office"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:397
+msgid "Photo"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:403
+msgid "Height Photo"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:406
+msgid "Ex:480px, 500px..."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:412 vc_shortcode.php:415
+msgid "Title"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:421 vc_shortcode.php:592 vc_shortcode.php:700
+msgid "Description"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:424
+msgid "Content right."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:432
+msgid "OT Our Facts"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:445
+msgid "Find <a target='_blank' href='http://vegatheme.com/html/etlinefont-icons/'>Here</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:451
+msgid "Title Fact"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:454
+msgid "Title display in Our Facts box."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:460
+msgid "Number Fact"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:463
+msgid "Number display in Our Facts box."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:474
+msgid "OT Portfolio Filter"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:485
+msgid "Text Show All Portfolio"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:488
+msgid "Text Filter Show All Portfolio."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:494
+msgid "Number portfolio per page"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:497
+msgid "Enter Number Portfolio."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:507
+msgid "OT Clients Logo"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:520
+msgid "Logos"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:529 vc_shortcode.php:689
+msgid "Select Visible"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:531
+msgid "4 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:533
+msgid "5 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:535
+msgid "6 items"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:540
+msgid "Number visible"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:552
+msgid "OT Our Team"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:565
+msgid "Avarta of member, Recomended Size: 420 x 420"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:571
+msgid "Name"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:574
+msgid "Member's Name"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:580
+msgid "Job"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:583
+msgid "Member's job."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:598
+msgid "Icon 1"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:601 vc_shortcode.php:619 vc_shortcode.php:637
+#: vc_shortcode.php:655
+msgid "EX: twitter, facebook, skype...Find here: <a target='_blank' href='http://fontawesome.io/icons/'>http://fontawesome.io/icons/</a>"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:610 vc_shortcode.php:628 vc_shortcode.php:646
+#: vc_shortcode.php:664
+msgid "Url."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:616
+msgid "Icon 2"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:634
+msgid "Icon 3"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:652
+msgid "Icon 4"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:676
+msgid "OT Testimonial Silder"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:691
+msgid "1 Col"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:693
+msgid "2 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:695
+msgid "3 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:697
+msgid "4 Cols"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:722
+msgid "OT Process"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:748
+msgid "OT Latest Blog Silder"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:782
+msgid "OT Google Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:793
+msgid "Height Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:796
+msgid "Please enter number height Map, 300, 350, 380, ..etc. Default: 420."
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:802
+msgid "Latitude"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:805
+msgid "Please enter <a href='http://www.latlong.net/'>Latitude</a> google map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:811
+msgid "Longitude"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:814
+msgid "Please enter <a href='http://www.latlong.net/'>Longitude</a> google map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:821
+msgid "Zoom Map"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:824
+msgid "Please enter Zoom Map, Default: 15"
+msgstr ""
+
+# @ archi
+#: vc_shortcode.php:835
+msgid "Icon Map marker, 85 x 85"
+msgstr ""

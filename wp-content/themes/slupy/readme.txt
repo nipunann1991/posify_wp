@@ -1,0 +1,1 @@
+Please contact with theme author - ThemeSama / http://themeforest.net/user/ThemeSama/
